@@ -17,65 +17,64 @@
     "profiles": [
       {
         "network": "Facebook",
-        "username": "neutralthoughts",
-        "url": ""
+        "username": "shohan494",
+        "url": "https://www.facebook.com/shohan494"
       },
       {
         "network": "Twitter",
-        "username": "dandymusicnl",
-        "url": "https://soundcloud.com/dandymusicnl"
+        "username": "cactus494",
+        "url": "https://twitter.com/cactus494"
       },
       {
-        "network": "Linked-In",
-        "username": "neutralthoughts",
-        "url": ""
+        "network": "LinkedIn",
+        "username": "shohan494",
+        "url": "https://www.linkedin.com/in/shohan494/"
       },
       {
-        "network": "SoundCloud",
-        "username": "dandymusicnl",
-        "url": "https://soundcloud.com/dandymusicnl"
+        "network": "Youtube",
+        "username": "MDSHOHANULALAMShohan",
+        "url": "https://www.youtube.com/c/MDSHOHANULALAMShohan"
       },
       {
-        "network": "Twitter",
-        "username": "neutralthoughts",
-        "url": ""
+        "network": "Github",
+        "username": "Shohan494",
+        "url": "https://www.github.com/shohan494"
       },
       {
-        "network": "SoundCloud",
-        "username": "dandymusicnl",
-        "url": "https://soundcloud.com/dandymusicnl"
+        "network": "Stack-Overflow",
+        "username": "shohanul-alam",
+        "url": "https://stackoverflow.com/users/4069577/shohanul-alam"
       }
     ]
   },
-  "work": [
+  "work 1": [
     {
-      "company": "Pied Piper",
-      "position": "CEO/President",
-      "website": "http://piedpiper.com",
-      "startDate": "2013-12-01",
-      "endDate": "2014-12-01",
-      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
+      "company": "Ekkdam.com",
+      "position": "Node.Js Developer",
+      "website": "http://ekkdam.com",
+      "startDate": "2017-05-01",
+      "endDate": "2017-07-01",
+      "summary": "Ekkdam.com is a multi-platform technology company based on Node.js and React Native stack",
       "highlights": [
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
+        "Build an Web and mobile Application that uses to make shopping business deals automated",
+        "Team Lead successfully won Microsoft's Elite Membership"
       ]
     }
   ],
-  "volunteer": [
+  "work 2": [
     {
-      "organization": "CoderDojo",
-      "position": "Teacher",
-      "website": "http://coderdojo.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Global movement of free coding clubs for young people.",
+      "organization": "Maison Mahdil",
+      "position": "Junior Web Associate",
+      "website": "http://mahdil.com/",
+      "startDate": "2016-06-01",
+      "endDate": "2013-08-01",
+      "summary": "A front-end Development company for creative design works",
       "highlights": [
-        "Awarded 'Teacher of the Month'"
+        "A very efficient and prominent French company"
       ]
     }
   ],
-  "education": [
+  "education 1": [
     {
       "institution": "University of Oklahoma",
       "area": "Information Technology",
