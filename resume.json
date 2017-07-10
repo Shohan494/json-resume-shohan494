@@ -6,7 +6,7 @@
     "email": "shohan12224943@gmail.com",
     "phone": "+880-171362195",
     "website": "http://shohan494.github.io",
-    "summary": "Passionate self-taught Web Application Developer. Love to code with JavaScript, Php and Python. Expertise in both front-end and back-end framworks and libraries like Bootstrap, Codeigniter, JQuery, Ajax and also interested in Django and Laravel.",
+    "summary": "Passionate self-taught Web Application Developer. Love to code with JavaScript, Php and Python. Expertise in both front-end and back-end framworks and libraries like Bootstrap, Codeigniter, JQuery, Ajax and also interested in Django and Laravel.  Currently I am researching and learning to become an Advanced Javascript Developer and studying over different frameworks like Angular.Js and Node.js. I prefer working in the back-end though I have a good grasp over the front-end part.",
     "location": {
       "address": "102 Shantinagar",
       "postalCode": "1217",
@@ -61,7 +61,7 @@
     {
       "company": "Dynamic9",
       "position": "Full-Stack-Developer",
-      "website": "https://dribbble.com/shots/3012315-Dynamic9",
+      "website": "https://www.facebook.com/iamAbdus/",
       "startDate": "2017-05-01",
       "endDate": "2017-07-01",
       "summary": "Maison Mahdil is a front-end based web design focused service",
@@ -81,64 +81,98 @@
       ]
     }
 ],
-  "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "website": "http://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description...",
-    "highlights": [
-      "Awarded 'Volunteer of the Month'"
-    ]
-  }],
-  "education": [{
-    "institution": "University",
-    "area": "Software Development",
+
+  "education": [
+  	{
+    "institution": "American International University-Bangladesh",
+    "area": "Computer Science and Engineering",
     "studyType": "Bachelor",
-    "startDate": "2011-01-01",
-    "endDate": "2013-01-01",
-    "gpa": "4.0",
+    "startDate": "2012-09-01",
+    "endDate": "2018-09-01",
+    "gpa": "2.50",
     "courses": [
-      "DB1101 - Basic SQL"
+      "Currently Running.."
     ]
-  }],
-  "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
-  }],
-  "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2014-10-01",
-    "website": "http://publication.com",
-    "summary": "Description..."
-  }],
-  "skills": [{
-    "name": "Web Development",
+  },
+  	{
+    "institution": "Engineering University Higher Secondary School",
+    "area": "Science",
+    "studyType": "Higher Secondary School Certificate",
+    "startDate": "2010-06-01",
+    "endDate": "2012-05-01",
+    "gpa": "4.70",
+    "courses": [
+    	"Currently Running.."
+    ]
+  },
+  	{
+    "institution": "Motijheel Model High School",
+    "area": "Science",
+    "studyType": "Secondary School Certificate",
+    "startDate": "2006-01-01",
+    "endDate": "2010-04-01",
+    "gpa": "5.00",
+    "courses": [
+    	"Currently Running.."
+    ]
+  }
+],
+  "skills": [
+  	{
+    "name": "Front-End",
     "level": "Master",
     "keywords": [
-      "HTML",
-      "CSS",
-      "Javascript"
+      "HTML5",
+      "CSS3",
+      "JavaScript and JQuery",
+      "Bootstrap, Foundation, Google's Material Design"
     ]
-  }],
-  "languages": [{
-    "name": "English",
-    "level": "Native speaker"
-  }],
-  "interests": [{
-    "name": "Wildlife",
+  },
+  	{
+    "name": "Back-End",
+    "level": "Intermediate",
     "keywords": [
-      "Ferrets",
-      "Unicorns"
+      "Advanced JavaScript",
+      "Php",
+      "Python",
+      "Ajax"
     ]
-  }],
+  },
+  	{
+    "name": "Database",
+    "level": "Intermediate",
+    "keywords": [
+      "MySql",
+      "MongoDB",
+      "Json",
+      "Redis and Oracle's Pl-Sql"
+    ]
+  },
+    	{
+    "name": "Frameworks",
+    "level": "Intermediate",
+    "keywords": [
+      "Node.js, Express.js, Angular",
+      "CodeIgniter and Laravel",
+      "Firebase",
+      "Django",
+      "Basic Wordpress"
+    ]
+  },
+  	{
+    "name": "Other skills",
+    "level": "Average",
+    "keywords": [
+      "Efficient in using Git and Github",
+      "Fluent in 3rd Party Api",
+      "Fast Learner and Team-Player",
+      "Used to in Linux-OS(Ubuntu) and CLI",
+      "Open source enthusiast and continious learner"
+    ]
+  }
+],
   "references": [{
-    "name": "Jane Doe",
-    "reference": "Reference..."
+    "name": "Abdul Jalil Bhuiyan, Principal-Jahangir Nagar University"
   }]
 
 }
