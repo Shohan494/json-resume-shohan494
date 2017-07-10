@@ -1,4 +1,4 @@
-[![screenshot](http://imgur.com/a/7yRWM)](http://javascriptissexy.com)
+[![screenshot](http://imgur.com/a/7yRWM)](http://imgur.com/a/7yRWM)
 
 # Json Resume of [Shohanul Alam](https://github.com/Shohan494)
 
