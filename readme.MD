@@ -2,7 +2,7 @@
 
 ## This is me:
 
-![Screenshot](http://imgur.com/a/7yRWM)
+![Screenshot](http://i.imgur.com/xnpHiFa.png)
 
 By - [Shohanul Alam](https://github.com/Shohan494)
 Powered by - [Json Resume](https://jsonresume.org)
